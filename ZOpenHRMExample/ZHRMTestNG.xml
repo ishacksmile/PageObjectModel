@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HRMApplication">
+  <test name="PendingLeave">
+  <classes>
+  <class name="HRMTestcases.Dashboard"/>
+  </classes>
+  </test>
+   <test name="UserInformation">
+  <classes>
+  <class name="HRMTestcases.UserRole"/>
+  </classes>
+  </test> 
+  </suite> 
